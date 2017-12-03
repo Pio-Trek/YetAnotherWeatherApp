@@ -1,4 +1,4 @@
-![Yet Another Weather App](https://github.com/Pio-Trek/YetAnotherWeatherApp/art/blob/master/banner.png)
+![Yet Another Weather App](https://github.com/Pio-Trek/YetAnotherWeatherApp/blob/master/art/banner.png)
 
 # Yet Another Weather App
 
@@ -13,7 +13,7 @@ http://sundaydevblog.com/blog/post/building-yet-another-weather-app--part-1-ui-a
 
 http://sundaydevblog.com/blog/post/building-yet-another-weather-app--part-2-check-connection-json-serialization-and-loaders
 
-![Sample screen](https://github.com/Pio-Trek/YetAnotherWeatherApp/art/blob/master/app01.png)
+![Sample screen](https://github.com/Pio-Trek/YetAnotherWeatherApp/art/blob/master/art/app01.png)
 
 ## Pre-requisites
 
