@@ -1,14 +1,36 @@
-# YetAnotherWeatherApp
+![Yet Another Weather App](https://github.com/Pio-Trek/YetAnotherWeatherApp/art/blob/master/banner.png)
 
-For more information check the links below.</br>
-PART 1: UI & Data Models</br>
+# Yet Another Weather App
+
+This is the simple weather app that presents the user a current weather and four days forecast from user input location.
+To read more and see the whole process and documentation of how I've created this app, please check the links below:
+
+**PART 1: Prototyping, UI and Data Models**
+
 http://sundaydevblog.com/blog/post/building-yet-another-weather-app--part-1-ui-and-data-models
-</br>
-</br>
-PART 2: Check internet connectio, JSON serialization, define AscyncTaskLoader class and implement LoaderManager.LoaderCallbacks<D> interface</br>
+
+**PART 2: Check internet connection, JSON serialization, define AscyncTaskLoader class and implement LoaderManager.LoaderCallbacks<D> interface**
+
 http://sundaydevblog.com/blog/post/building-yet-another-weather-app--part-2-check-connection-json-serialization-and-loaders
 
-# License
+![Sample screen](https://github.com/Pio-Trek/YetAnotherWeatherApp/art/blob/master/app01.png)
+
+## Pre-requisites
+
+- Android SDK v21 (Android 5.0 Lollipop)
+- Android Build Tools v26.0.2
+- Android Support Repository v26.1.0
+- ConstraintLayout Support Repository
+- Android Picasso Library
+- [Apixu.com](https://www.apixu.com/signup.aspx) API Key
+
+## Getting Started
+
+This app uses the Gradle build system. To build this project, use the `gradlew build` command or use `Import Project` in Android Studio.
+To start the app user don't forget to register for your's free Apixu.com API Key and assign it to the `API_KEY` static variable.
+
+## License
+
 Copyright 2017 Piotr Przechodzki
 
 Licensed under the Apache License, Version 2.0 (the "License");
