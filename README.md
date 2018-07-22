@@ -5,14 +5,6 @@
 This is the simple weather app that presents the user a current weather and four days forecast from user input location.
 To read more and see the whole process and documentation of how I've created this app, please check the links below:
 
-**PART 1: Prototyping, UI and Data Models**
-
-http://sundaydevblog.com/blog/post/building-yet-another-weather-app--part-1-ui-and-data-models
-
-**PART 2: Check internet connection, JSON serialization, define AscyncTaskLoader class and implement LoaderManager.LoaderCallbacks<D> interface**
-
-http://sundaydevblog.com/blog/post/building-yet-another-weather-app--part-2-check-connection-json-serialization-and-loaders
-
 ![Sample screen](https://github.com/Pio-Trek/YetAnotherWeatherApp/blob/master/art/app01.png)
 
 ## Pre-requisites
